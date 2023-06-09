@@ -1,0 +1,11 @@
+name: SkulkPlague
+version: '${project.version}'
+main: me.schmeb.skulkplague.SkulkPlague
+api-version: 1.19
+commands:
+  infect:
+    usage: /<command>
+    description: Infect a Player.
+  skulkplague:
+    usage: /<command>
+    description: reload SkulkPlague
